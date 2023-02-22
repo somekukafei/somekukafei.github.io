@@ -1,29 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
+.box1 {
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+.juvs {
+    width: 80vw;
+    margin: auto;
+}
 
-    <title>css Test</title>
-</head>
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
 
-<body>
-    <abbr title="hhhhh">
-        <div class="juvs">
-            <div class="box1">
-                <h1>Hel l o o rd</h1>
-                <h1>Hlo world</h1>
-            </div>
-            <p>Lorem ipsum, dolor sit amet consec tetur adipisicing elitres!</p>
-            <a href="https://bilibili.com"><img src="https://s1.ax1x.com/2022/03/23/q3miJf.md.png" alt="q3miJf.png" border="0" /></a>
-        </div>
-        <div class="wait">
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit molestias?</p>
-        </div>
-    </abbr>
-</body>
-
-</html>
+.wait {
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: chartreuse;
+}
