@@ -1,0 +1,22 @@
+.box1 {
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+.juvs {
+    width: 80vw;
+    margin: auto;
+}
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.wait {
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: chartreuse;
+}
